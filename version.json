@@ -1,4 +1,13 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/sakibisalive/Zero-BDIX-Proxy-Update/releases/download/v1.1.0/ZeroBDIX_Proxy.exe"
+  "tag_name": "v3.1.0",
+  "name": "Zero BDIX Proxy Update",
+  "prerelease": false,
+  "published_at": "2026-02-10T09:00:00Z",
+  "assets": [
+    {
+      "name": "ZeroBDIX_Proxy.exe",
+      "browser_download_url": "https://github.com/sakibisalive/Zero-BDIX-Proxy-Update/releases/download/v1.1.0/ZeroBDIX_Proxy.exe",
+      "size": 0
+    }
+  ]
 }
